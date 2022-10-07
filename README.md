@@ -29,6 +29,6 @@ Projet « Mise en place d’une architecture Big Data »
 #### - Force de proposition orientée solutions et suivi de mise en production
 
 ### Publications / Communication 
-#### - 48 publications scientifiques (scholar.google.com) avec 338 citations ;
+#### - 42 publications scientifiques (scholar.google.com) avec 223 citations ;
 #### - Benchmark et Veille Technologique
 
