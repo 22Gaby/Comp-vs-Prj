@@ -1,4 +1,4 @@
-## COMPÉTENCES CLÉS versus Projets
+## COMPÉTENCES versus PROJETS Réalisés
 
 ### Data Mining / Data Visualisation:
 
