@@ -20,7 +20,7 @@ Projet « Mise en place d’une architecture Big Data ». Base de données Kaggl
 ###     *
 ### 
 ### Modélisation de classes déséquilibrées / API de prédiction / Dashboard : 
-#### Projet <strong>https://github.com/22Gaby/Projet7</strong> , 
+#### Projet https://github.com/22Gaby/Modele_de_scoring , 
 « Outil scoring d’attribution d’un crédit bancaire ». Base de données Kaggle : Home Credit Default Risk, https://www.kaggle.com/c/home-credit-default-risk.  
 #### Dashboard interactif **http://162.19.76.116/**
 
