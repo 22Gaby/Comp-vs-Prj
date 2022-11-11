@@ -18,9 +18,12 @@ Technologies: Python, Numpy, Pandas, Seaborn, Matplotlib, SciPy, TDD, Scikit-lea
 #### - Apprentissage non supervisé adapté au problème métier: 
 Projet « Segmentez des clients d’un site e-commerce pour une communication marketing ». Base de données Kaggle - Brazilien e-Commerce, https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
 Technologies: Python, Numpy, Pandas, Seaborn, Matplotlib, Méthode marketing segmentation RFM, Scikit-learn
-#### - Algorithmes de traitement images et textes: 
-Projet « Faisabilité d’un moteur de classification des articles des biens de consommation». Utilisation de données images et textes sur 1050 produits.
-Technologies: Python, Numpy, Pandas, Seaborn, Matplotlib, Nltk, Scikit-learn, TensorFlow, Keras 
+#### - Algorithmes de traitement IMAGES (Open Source Computer Vision, CNN, Transfer Learning) et TEXTES (Nltk): 
+Projet « Faisabilité d’un moteur de classification des articles des biens de consommation». Utilisation de données de type images labellisées sur 1050 articles variés.
+- Données images : prétraitement (librairie OpenCV), algorithme d’extraction de features (réseaux de neurones convolutifs CNN + transfer learning VGG16), clustering Kmeans et évaluation, réduction de dimension permettant une visualisation 2D 
+- Données textes : prétraitement (librairie Nltk), algorithme d’extraction de features, clustering non-supervisé et évaluation, visualisation 2D (T-SNE). 
+- Technologies: Python, OpenCV, Numpy, Pandas, Seaborn, Matplotlib, Nltk, Scikit-learn, TensorFlow, Keras
+
 
 #### - Déploiement dans le cloud: 
 Projet « Mise en place d’une architecture Big Data ». Base de données Kaggle : Fruits 360, https://www.kaggle.com/datasets/moltean/fruits
