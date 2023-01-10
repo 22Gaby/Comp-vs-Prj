@@ -21,7 +21,7 @@ Sujet: « Prédiction de la consommation électrique des bâtiments de la ville 
 
 
 #### - Apprentissage non supervisé adapté au problème métier: 
-#### Domaine de l'e-COMMERCE, Projet Marketing Ciblé, analyse du comportement client, segmentation client, appétence produit. 
+#### Domaine du MARKETING en ligne, l'e-COMMERCE. Projet Marketing Ciblé, analyse du comportement client, segmentation client, appétence produit. 
 Sujet: « Segmentez des clients d’un site e-commerce pour une communication marketing ». Base de données Kaggle - Brazilien e-Commerce, https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
 - Technologies: Python, Numpy, Pandas, Seaborn, Matplotlib, Méthode marketing segmentation RFM, Scikit-learn
 
