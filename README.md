@@ -27,12 +27,17 @@ Sujet: « Segmentez des clients d’un site e-commerce pour une communication ma
 
 ###     *
 ### 
-### Méthodologie décisionnelle de données déséquilibrées / API de prédiction / Dashboard : 
+### Méthodologie décisionnelle de données déséquilibrées / API de prédiction / Dashboard Interactif / Mise en Production : 
 #### Domaine de la FINANCE, management du risque à travers un modèle de scoring. 
 Projet online sur https://github.com/22Gaby/Modele_de_scoring , 
 « Outil scoring d’attribution d’un crédit bancaire ». Base de données Kaggle : Home Credit Default Risk, https://www.kaggle.com/c/home-credit-default-risk.
 - Technologies: Python, Linux, Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, Dash, Plotly, Flask
-#### Dashboard interactif permettant d’identifier les clients non-solvables lors de l’octroi du crédit: **http://162.19.76.116/**
+#### Dashboard interactif (DASH)
+destiné aux gestionnaires de la relation client pour restituer les informations clients et identifier les clients non-solvables lors de l’octroi du crédit 
+#### Mise en production 
+du modèle de scoring de prédiction à l’aide d’une API (Flask) et d’un dashboard interactif qui appelle l’API pour les prédictions.
+#### Déploiement en ligne sur un serveur cloud  **http://162.19.76.116/**
+
 ###     *
 ### 
 ### Algorithmes de traitement IMAGES (Open Source Computer Vision, CNN, Transfer Learning) et TEXTES (Nltk): 
