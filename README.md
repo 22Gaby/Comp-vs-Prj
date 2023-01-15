@@ -29,7 +29,7 @@ Sujet: « Segmentez des clients d’un site e-commerce pour une communication ma
 ### 
 ### Méthodologie décisionnelle de données déséquilibrées / API de prédiction / Dashboard Interactif / Mise en Production : 
 #### Domaine de la FINANCE, management du risque à travers un modèle de scoring. 
-Projet online sur https://github.com/22Gaby/Modele_de_scoring , 
+Projet disponible online sur mon GitHub https://github.com/22Gaby/Modele_de_scoring , 
 « Outil scoring d’attribution d’un crédit bancaire ». Base de données Kaggle : Home Credit Default Risk, https://www.kaggle.com/c/home-credit-default-risk.
 - Technologies: Python, Linux, Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, Dash, Plotly, Flask
 #### Dashboard interactif (DASH)
